@@ -1,0 +1,62 @@
+body {
+    background:radial-gradient(cornflowerblue, white);
+      
+}
+.Pictures {
+    border: 2.5px solid black;
+    float: left;
+    margin: 0 15px 15px 0;
+    
+}
+li {
+    font-size: 2em;
+    font-family:cursive
+}
+
+.SSP{
+    font-size: 18px;
+    width: 1000px;
+    text-align: justify;
+}
+
+#pics {
+    width: 100%;
+    height: 480px;
+    
+}
+p, h2, h1 {
+    font-family:cursive
+}
+/* li {
+    list-style-type: none;
+    display: inline;
+    justify-content: space-between;
+} */
+td {
+    border: 2px solid black;
+    text-align: center;
+}
+.toppart {
+    font-size: 30px;
+    text-decoration: none;
+}
+a:link {
+    color:black
+}
+a:visited {
+    color:gray
+}
+#comm {
+    background:lightblue;
+    color:black;
+    font-size: 200%;
+    text-align: center;
+}
+#Contact {
+    font-size: 200%;
+    text-align: center;
+}
+#Comments {
+    font-size:200%; 
+    color: cadetblue;
+}
